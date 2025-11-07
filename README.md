@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**rawanmohamed-28/rawanmohamed-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I’m Rawan!**  
+I'm a CS student at Heriot Watt University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building **interactive web apps and AI projects**  
+🌱 Learning **Python, JavaScript, and AI/ML frameworks**  
+🚀 Interested in **internships, hackathons, and collaborative projects**  
+💼 Seeking collaboration with **creative minds in tech**
+
+
+📫 **Contact Me:**  
+- **Email:** [rawanmismail28@gmail.com](mailto:rawanmismail28@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rawan-mohamed-8662a6386](https://www.linkedin.com/in/rawan-mohamed-8662a6386)
