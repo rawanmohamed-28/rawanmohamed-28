@@ -5,7 +5,7 @@ I'm a CS student at Heriot Watt University.
 
 
 💻 Currently building **interactive web apps and AI projects**  
-🌱 Learning **Python, JavaScript, and AI/ML frameworks**  
+🌱 Learning **Python, JavaScript, and more**  
 🚀 Interested in **internships, hackathons, and collaborative projects**  
 💼 Seeking collaboration with **creative minds in tech**
 
