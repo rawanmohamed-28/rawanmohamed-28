@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello!
 
 **Hi, I’m Rawan!**  
 I'm a CS student at Heriot Watt University.
