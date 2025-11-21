@@ -1,4 +1,4 @@
-## Hello!
+<h1>Hello!</h1>
 
 **Hi, I’m Rawan!**  
 I'm a CS student at Heriot Watt University.
