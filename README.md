@@ -22,4 +22,4 @@ I'm a CS student at Heriot Watt University.
 
 ## Contact Me
 **Email:** [rawanmismail28@gmail.com](mailto:rawanmismail28@gmail.com)  
-**LinkedIn:** [linkedin.com/in/rawan-mohamed-8662a6386](https://www.linkedin.com/in/rawan-mohamed-8662a6386)
+**LinkedIn:** https://www.linkedin.com/in/rawan28-/
