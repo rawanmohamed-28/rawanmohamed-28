@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 
 **Hi, I’m Rawan!**  
-I'm a CS student at Heriot Watt University.
+
 
 ## About Me
 💻 Currently building **interactive web apps and AI projects**  
